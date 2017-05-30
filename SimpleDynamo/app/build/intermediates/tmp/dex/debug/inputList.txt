@@ -1,0 +1,1 @@
+/home/andi/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/classes/debug
